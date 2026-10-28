@@ -1,3 +1,3 @@
 # mind-magic
-This is a C project which can tell what you are thinking.
+A classic CLI-based "Mind Reader" number guessing game in C powered by binary logic.
 #
